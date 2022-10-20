@@ -1,15 +1,30 @@
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\bin\Debug\net6.0\githubminich5kt.exe
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\bin\Debug\net6.0\githubminich5kt.deps.json
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\bin\Debug\net6.0\githubminich5kt.runtimeconfig.json
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\bin\Debug\net6.0\githubminich5kt.dll
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\bin\Debug\net6.0\githubminich5kt.pdb
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.csproj.AssemblyReference.cache
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.AssemblyInfoInputs.cache
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.AssemblyInfo.cs
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.csproj.CoreCompileInputs.cache
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.dll
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\refint\githubminich5kt.dll
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.pdb
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\githubminich5kt.genruntimeconfig.cache
-C:\Users\kentc\OneDrive\Documents\Coding Combine\githubchallenges\githubminich5kt\obj\Debug\net6.0\ref\githubminich5kt.dll
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/bin/Debug/net6.0/githubminich5kt.exe
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/bin/Debug/net6.0/githubminich5kt.deps.json
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/bin/Debug/net6.0/githubminich5kt.runtimeconfig.json
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/bin/Debug/net6.0/githubminich5kt.dll
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/bin/Debug/net6.0/githubminich5kt.pdb
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.csproj.AssemblyReference.cache
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.AssemblyInfoInputs.cache
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.AssemblyInfo.cs
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.csproj.CoreCompileInputs.cache
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.dll
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/refint/githubminich5kt.dll
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.pdb
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/githubminich5kt.genruntimeconfig.cache
+C:/Users/kentc/OneDrive/Documents/Coding Combine/githubchallenges/githubminich5kt/obj/Debug/net6.0/ref/githubminich5kt.dll
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/bin/Debug/net6.0/githubminich5kt
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/bin/Debug/net6.0/githubminich5kt.deps.json
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/bin/Debug/net6.0/githubminich5kt.runtimeconfig.json
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/bin/Debug/net6.0/githubminich5kt.dll
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/bin/Debug/net6.0/githubminich5kt.pdb
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.csproj.AssemblyReference.cache
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.AssemblyInfoInputs.cache
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.AssemblyInfo.cs
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.csproj.CoreCompileInputs.cache
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.dll
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/refint/githubminich5kt.dll
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.pdb
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/githubminich5kt.genruntimeconfig.cache
+/Users/angelmanz/Documents/Level1/GitRepository/githubminich5kt/obj/Debug/net6.0/ref/githubminich5kt.dll
